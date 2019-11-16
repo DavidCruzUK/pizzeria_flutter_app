@@ -1,6 +1,6 @@
-# pizzeria_app
+# pizzeria_flutter_app
 
-A new Flutter project.
+This Repository is just a demo of BLoC 
 
 ## Getting Started
 
